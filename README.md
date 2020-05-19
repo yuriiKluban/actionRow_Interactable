@@ -1,10 +1,11 @@
 # Custom action raw component
-___
 
-A powerful [React Native](https://reactnative.dev) and [React Native Gesture Handler](https://github.com/kmagiera/react-native-gesture-handler) action raw component. Supports both iOS and Android.
+A powerful [React Native](https://reactnative.dev) and [React Native Interactable](https://github.com/wix/react-native-interactable) action raw component. Supports both iOS and Android.
 
+### Intro
+![hippo](https://media.giphy.com/media/MEj8t0r3euKXwt9Gfe/source.gif)
 
-### Run example 
+### How to run  
 ___
 
 ```
