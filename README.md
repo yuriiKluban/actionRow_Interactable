@@ -1,6 +1,6 @@
-# Custom action raw component
+# Custom action row component
 
-A powerful [React Native](https://reactnative.dev) and [React Native Interactable](https://github.com/wix/react-native-interactable) action raw component. Supports both iOS and Android.
+A powerful [React Native](https://reactnative.dev) and [React Native Interactable](https://github.com/wix/react-native-interactable) action row component. Supports both iOS and Android.
 
 ### Intro
 ![hippo](https://media.giphy.com/media/MEj8t0r3euKXwt9Gfe/source.gif)
@@ -9,7 +9,7 @@ A powerful [React Native](https://reactnative.dev) and [React Native Interactabl
 ___
 
 ```
-git clone https://github.com/yuriiKluban/actionRaw_Interactable.git
+git clone https://github.com/yuriiKluban/actionRow_Interactable.git
 yarn install
 cd ios && pod install
 react-native run-ios # or run-android
